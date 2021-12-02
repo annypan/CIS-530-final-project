@@ -36,3 +36,47 @@ python3 evaluate.py -p [path_to_prediction] -g [path_to_ground_truth] -each True
   },
 }
 ```
+
+## Get the missing substitutes in prediction
+### Description
+Outputs the missing substitutes for each ingredient in the file `evaluations/missing_ingredients.json`
+
+### Script
+```
+python3 evaluate.py -p [path_to_prediction] -g [path_to_ground_truth] -gm True
+```
+
+### Sample output
+```
+{
+  "american cheese": {
+    "cheddar cheese"
+  },
+  "apple juice": {
+    "apple cider",
+    "pear juice"
+  },
+}
+```
+
+## Get the wrong substitutes in prediction
+### Description
+Outputs the wrong substitutes for each ingredient in the file `evaluations/wrong_ingredients.json`
+
+### Script
+```
+python3 evaluate.py -p [path_to_prediction] -g [path_to_ground_truth] -gw True
+```
+
+### Sample output
+```
+{
+  "american cheese": {
+    "apple cider",
+    "pear juice"
+  },
+  "apple juice": {
+    "cheddar cheese"
+  },
+}
+```
