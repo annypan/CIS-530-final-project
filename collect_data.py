@@ -1,5 +1,4 @@
-from process_data import read_data
-import random
+from train_test_split import read_data
 import json
 from collections import Counter
 
