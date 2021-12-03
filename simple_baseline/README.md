@@ -10,18 +10,18 @@ On our test set, the model has a Precision of 0.784 and Recall of 0.139.
 ### 1. Cloning the repository for FoodBERT embeddings
 ```
 git clone https://github.com/ChantalMP/Exploiting-Food-Embeddings-for-Ingredient-Substitution.git repo
-'''
+```
 ### 2. Change current directory to get inside repo folder
 ```
 cd repo
-'''
+```
 
 ### 3. Commands to download data
 ```
     wget https://github.com/ChantalMP/Exploiting-Food-Embeddings-for-Ingredient-Substitution/releases/download/0.1/foodbert_data.zip
     wget https://github.com/ChantalMP/Exploiting-Food-Embeddings-for-Ingredient-Substitution/releases/download/0.1/foodbert_embeddings_data.zip
     wget https://github.com/ChantalMP/Exploiting-Food-Embeddings-for-Ingredient-Substitution/releases/download/0.1/multimodal_data.zip
-'''
+```
 
 ### 4. Unzipping zip files and creating required directory structure
 ```
@@ -34,21 +34,21 @@ cd repo
     rm -r foodbert_data
     rm -r foodbert_embeddings_data
     rm -r multimodal_data
-'''
+```
 
 ### 5. Installing required libraries
 ```
 pip install -r requirements.txt
-'''
+```
 ### 6. Installing appropriate versions for torch and torchvision
 ```
 pip install torch==1.5.0+cu101 torchvision==0.6.0+cu101 -f https://download.pytorch.org/whl/torch_stable.html
-'''
+```
 
 ### 7. Make sure to be inside repo to run simple-baseline.py. test_file_path.json denotes path of the test file; output_predicitons_file_path.json denotes path of the output file.
 
 ```
 python simple-baseline.py --test-file-path test_file_path.json --test-preds-path output_predicitons_file_path.json
-'''
+```
 
 ## To evaluate the produced predictions, use the output predicitons file produced above.
