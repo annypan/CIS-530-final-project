@@ -45,7 +45,8 @@ pip install -r requirements.txt
 pip install torch==1.5.0+cu101 torchvision==0.6.0+cu101 -f https://download.pytorch.org/whl/torch_stable.html
 ```
 
-### 7. Make sure to be inside repo to run simple-baseline.py. test_file_path.json denotes path of the test file; output_predicitons_file_path.json denotes path of the output file.
+### 7. Make sure to be inside repo to run simple-baseline.py. 
+### test_file_path.json denotes path of the test file; output_predicitons_file_path.json denotes path of the output file.
 
 ```
 python simple-baseline.py --test-file-path test_file_path.json --test-preds-path output_predicitons_file_path.json
