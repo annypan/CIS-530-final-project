@@ -172,3 +172,4 @@ if args.test_file_path:
         json.dump(subtitute_pairs, f)
 
     print("Predicitons saved.")
+    print(subtitute_pairs)
