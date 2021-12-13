@@ -1,0 +1,268 @@
+{
+  "american cheese": [
+    "butter",
+    "onion",
+    "salt",
+    "pepper",
+    "american"
+  ],
+  "apple juice": [
+    "apple",
+    "salt",
+    "cinnamon",
+    "juice",
+    "sugar"
+  ],
+  "bacon": [
+    "butter",
+    "garlic",
+    "onion",
+    "pepper",
+    "salt"
+  ],
+  "ground beef": [
+    "garlic",
+    "salt",
+    "onion",
+    "ground",
+    "pepper"
+  ],
+  "blueberry": [
+    "cheese",
+    "blueberries",
+    "pie filling",
+    "butter",
+    "sugar"
+  ],
+  "bulgur": [
+    "water",
+    "pepper",
+    "olive oil",
+    "olive",
+    "salt"
+  ],
+  "carrot": [
+    "celery",
+    "garlic",
+    "salt",
+    "onion",
+    "pepper"
+  ],
+  "cheddar": [
+    "butter",
+    "onion",
+    "salt",
+    "cheddar cheese",
+    "pepper"
+  ],
+  "cherry": [
+    "cherry tomatoes",
+    "salt",
+    "sugar",
+    "pepper",
+    "tomatoes"
+  ],
+  "chicken": [
+    "chicken broth",
+    "onion",
+    "salt",
+    "garlic",
+    "pepper"
+  ],
+  "duck": [
+    "ground",
+    "black pepper",
+    "garlic",
+    "salt",
+    "pepper"
+  ],
+  "hazelnut": [
+    "hazelnuts",
+    "salt",
+    "sugar",
+    "butter",
+    "chocolate"
+  ],
+  "jack cheese": [
+    "onion",
+    "pepper",
+    "monterey jack cheese",
+    "monterey jack",
+    "cheese"
+  ],
+  "kale": [
+    "salt",
+    "olive oil",
+    "garlic",
+    "pepper",
+    "olive"
+  ],
+  "lamb": [
+    "olive oil",
+    "olive",
+    "salt",
+    "garlic",
+    "pepper"
+  ],
+  "lobster": [
+    "olive oil",
+    "garlic",
+    "salt",
+    "butter",
+    "pepper"
+  ],
+  "parsley": [
+    "olive oil",
+    "olive",
+    "salt",
+    "garlic",
+    "pepper"
+  ],
+  "peach": [
+    "lemon",
+    "salt",
+    "sugar",
+    "butter",
+    "sliced"
+  ],
+  "peanut": [
+    "sauce",
+    "butter",
+    "garlic",
+    "sugar",
+    "peanut oil"
+  ],
+  "pineapple": [
+    "pepper",
+    "juice",
+    "salt",
+    "sugar",
+    "pineapple juice"
+  ],
+  "pork": [
+    "onion",
+    "sauce",
+    "salt",
+    "garlic",
+    "pepper"
+  ],
+  "prosciutto": [
+    "garlic",
+    "sliced",
+    "olive oil",
+    "olive",
+    "pepper"
+  ],
+  "raisin": [
+    "flour",
+    "butter",
+    "cinnamon",
+    "sugar",
+    "salt"
+  ],
+  "raspberry": [
+    "salt",
+    "raspberry jam",
+    "flour",
+    "butter",
+    "sugar"
+  ],
+  "rice milk": [
+    "powder",
+    "sugar",
+    "milk",
+    "flour",
+    "salt"
+  ],
+  "roquefort": [
+    "olive",
+    "salt",
+    "roquefort cheese",
+    "pepper",
+    "cheese"
+  ],
+  "salmon": [
+    "olive oil",
+    "olive",
+    "lemon",
+    "pepper",
+    "salt"
+  ],
+  "strawberry": [
+    "cream",
+    "butter",
+    "water",
+    "sugar",
+    "strawberries"
+  ],
+  "thyme": [
+    "olive oil",
+    "olive",
+    "salt",
+    "garlic",
+    "pepper"
+  ],
+  "tuna": [
+    "olive oil",
+    "olive",
+    "onion",
+    "pepper",
+    "salt"
+  ],
+  "turkey": [
+    "ground",
+    "garlic",
+    "onion",
+    "salt",
+    "pepper"
+  ],
+  "veal": [
+    "olive",
+    "garlic",
+    "butter",
+    "pepper",
+    "salt"
+  ],
+  "sugar": [
+    "eggs",
+    "brown sugar",
+    "flour",
+    "butter",
+    "salt"
+  ],
+  "mushroom": [
+    "cream of mushroom soup",
+    "cream",
+    "onion",
+    "mushroom soup",
+    "pepper"
+  ],
+  "eggplant": [
+    "salt",
+    "olive",
+    "garlic",
+    "olive oil",
+    "pepper"
+  ],
+  "chocolate": [
+    "eggs",
+    "flour",
+    "chocolate chips",
+    "butter",
+    "sugar"
+  ],
+  "tofu": [
+    "salt",
+    "soy sauce",
+    "garlic",
+    "pepper",
+    "sauce"
+  ],
+  "paneer": [
+    "ginger",
+    "garam masala",
+    "masala",
+    "garlic",
+    "salt"
+  ]
+}
