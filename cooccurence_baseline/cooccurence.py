@@ -17,7 +17,7 @@ def predict(cooc_mat, ingredients):
         for substitute_index in indices:
             substitutes.append(ingredients[substitute_index])
         res[ingredient] = substitutes
-    with open('cooc_predictions.json', 'w') as f_out:
+    with open('predictions/cooc_predictions.json', 'w') as f_out:
         json.dump(res, f_out, ensure_ascii=False)
         print('predictions are ready')
 
