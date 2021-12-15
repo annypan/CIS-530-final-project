@@ -22,11 +22,11 @@ if __name__ == '__main__':
         test_lines = lines[math.floor(size * 0.9):]
         with open('data/train.txt', 'w') as f_out:
             for line in train_lines:
-                f_out.write(line + '\n')
+                f_out.write(line + '\n\n\n')
         with open('data/valid.txt', 'w') as f_out:
             for line in val_lines:
-                f_out.write(line + '\n')
+                f_out.write(line + '\n\n\n')
         with open('data/test.txt', 'w') as f_out:
             for line in test_lines:
-                f_out.write(line + '\n')
+                f_out.write(line + '\n\n\n')
         print('finished')
