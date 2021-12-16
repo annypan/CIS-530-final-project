@@ -1,268 +1,268 @@
 {
   "american cheese": [
-    "butter",
-    "onion",
-    "salt",
-    "pepper",
-    "american"
+    "luncheon meat",
+    "bologna",
+    "cheese slices",
+    "american",
+    "pasteurized"
   ],
   "apple juice": [
-    "apple",
-    "salt",
-    "cinnamon",
-    "juice",
-    "sugar"
+    "barbecue rub",
+    "organic apple",
+    "apple juice concentrate",
+    "juice concentrate",
+    "unsweetened apple juice"
   ],
   "bacon": [
-    "butter",
-    "garlic",
-    "onion",
-    "pepper",
-    "salt"
+    "canadian bacon",
+    "bacon grease",
+    "cooked bacon",
+    "center cut bacon",
+    "oscar mayer bacon"
   ],
   "ground beef": [
-    "garlic",
-    "salt",
-    "onion",
-    "ground",
-    "pepper"
+    "ranch style beans",
+    "tater tots",
+    "frozen tater tots",
+    "extra lean ground beef",
+    "lean ground beef"
   ],
   "blueberry": [
-    "cheese",
-    "blueberries",
+    "muffin mix",
+    "peach pie filling",
     "pie filling",
-    "butter",
-    "sugar"
+    "blueberry jam",
+    "blueberry pie filling"
   ],
   "bulgur": [
-    "water",
-    "pepper",
-    "olive oil",
-    "olive",
-    "salt"
+    "pomegranate molasses",
+    "herb dressing",
+    "aleppo pepper",
+    "cracked wheat",
+    "bulgur wheat"
   ],
   "carrot": [
-    "celery",
-    "garlic",
-    "salt",
-    "onion",
-    "pepper"
+    "carcass",
+    "rib",
+    "burdock",
+    "carrot sticks",
+    "grated carrot"
   ],
   "cheddar": [
-    "butter",
-    "onion",
-    "salt",
     "cheddar cheese",
-    "pepper"
+    "mild cheddar cheese",
+    "kraft sharp cheddar cheese",
+    "condensed cheddar cheese soup",
+    "cheddar cheese soup"
   ],
   "cherry": [
-    "cherry tomatoes",
-    "salt",
-    "sugar",
-    "pepper",
-    "tomatoes"
+    "cherry peppers",
+    "maraschino",
+    "cherry gelatin",
+    "cherry juice",
+    "cherry brandy"
   ],
   "chicken": [
-    "chicken broth",
-    "onion",
-    "salt",
-    "garlic",
-    "pepper"
+    "chicken liver",
+    "chicken gravy",
+    "swanson chicken broth",
+    "cream of chicken soup",
+    "chicken flavor stuffing mix"
   ],
   "duck": [
-    "ground",
-    "black pepper",
-    "garlic",
-    "salt",
-    "pepper"
+    "duck sauce",
+    "goose",
+    "confit",
+    "duck breasts",
+    "duck fat"
   ],
   "hazelnut": [
-    "hazelnuts",
-    "salt",
-    "sugar",
-    "butter",
-    "chocolate"
+    "ground hazelnuts",
+    "roasted hazelnuts",
+    "hazelnut liqueur",
+    "hazelnut oil",
+    "frangelico"
   ],
   "jack cheese": [
-    "onion",
-    "pepper",
-    "monterey jack cheese",
+    "bean dip",
+    "pepper jack",
     "monterey jack",
-    "cheese"
+    "monterey jack cheese",
+    "colby jack cheese"
   ],
   "kale": [
-    "salt",
-    "olive oil",
-    "garlic",
-    "pepper",
-    "olive"
+    "hemp seeds",
+    "farro",
+    "linguica",
+    "curly kale",
+    "lacinato kale"
   ],
   "lamb": [
-    "olive oil",
-    "olive",
-    "salt",
-    "garlic",
-    "pepper"
+    "lamb loin",
+    "rack of lamb",
+    "lamb chops",
+    "lamb loin chops",
+    "lamb rib chops"
   ],
   "lobster": [
-    "olive oil",
-    "garlic",
-    "salt",
-    "butter",
-    "pepper"
+    "lobsters",
+    "shellfish",
+    "claws",
+    "lobster meat",
+    "lobster tails"
   ],
   "parsley": [
-    "olive oil",
-    "olive",
-    "salt",
-    "garlic",
-    "pepper"
+    "parsley leaves",
+    "parsley sprigs",
+    "fresh parsley",
+    "chopped parsley",
+    "minced parsley"
   ],
   "peach": [
-    "lemon",
-    "salt",
-    "sugar",
-    "butter",
-    "sliced"
+    "peach halves",
+    "peach slices",
+    "peach jam",
+    "peach nectar",
+    "peach puree"
   ],
   "peanut": [
-    "sauce",
-    "butter",
-    "garlic",
-    "sugar",
-    "peanut oil"
+    "nut butter",
+    "peanut oil",
+    "peanut butter chips",
+    "chunky peanut butter",
+    "peanut sauce"
   ],
   "pineapple": [
-    "pepper",
-    "juice",
-    "salt",
-    "sugar",
-    "pineapple juice"
+    "pineapple chunks",
+    "pineapple slices",
+    "unsweetened pineapple juice",
+    "pineapple juice",
+    "pineapple preserves"
   ],
   "pork": [
-    "onion",
-    "sauce",
-    "salt",
-    "garlic",
-    "pepper"
+    "pork stew meat",
+    "pork ribs",
+    "pork chops",
+    "pork fat",
+    "minced pork"
   ],
   "prosciutto": [
-    "garlic",
-    "sliced",
-    "olive oil",
-    "olive",
-    "pepper"
+    "taleggio",
+    "country ham",
+    "genoa salami",
+    "mortadella",
+    "bresaola"
   ],
   "raisin": [
-    "flour",
-    "butter",
-    "cinnamon",
-    "sugar",
-    "salt"
+    "dried pears",
+    "dried apricot",
+    "dried fig",
+    "raisin bread",
+    "sultana"
   ],
   "raspberry": [
-    "salt",
-    "raspberry jam",
-    "flour",
-    "butter",
-    "sugar"
+    "raspberry preserves",
+    "raspberry juice",
+    "raspberry puree",
+    "raspberry liqueur",
+    "raspberry jam"
   ],
   "rice milk": [
-    "powder",
-    "sugar",
-    "milk",
-    "flour",
-    "salt"
+    "vegan butter",
+    "soymilk",
+    "xanthan gum",
+    "xanthan",
+    "flour mix"
   ],
   "roquefort": [
-    "olive",
-    "salt",
-    "roquefort cheese",
-    "pepper",
-    "cheese"
+    "blue cheese",
+    "belgian endive",
+    "stilton cheese",
+    "stilton",
+    "roquefort cheese"
   ],
   "salmon": [
-    "olive oil",
-    "olive",
-    "lemon",
-    "pepper",
-    "salt"
+    "smoked salmon",
+    "canned salmon",
+    "pink salmon",
+    "salmon steaks",
+    "red salmon"
   ],
   "strawberry": [
-    "cream",
-    "butter",
-    "water",
-    "sugar",
-    "strawberries"
+    "strawberry preserves",
+    "strawberry jam",
+    "strawberry gelatin",
+    "strawberry flavor",
+    "strawberry yogurt"
   ],
   "thyme": [
-    "olive oil",
-    "olive",
-    "salt",
-    "garlic",
-    "pepper"
+    "fresh thyme",
+    "thyme sprigs",
+    "dried thyme",
+    "thyme sprig",
+    "chopped fresh thyme"
   ],
   "tuna": [
-    "olive oil",
-    "olive",
-    "onion",
-    "pepper",
-    "salt"
+    "wasabi",
+    "ahi",
+    "canned tuna",
+    "tuna fish",
+    "light tuna"
   ],
   "turkey": [
-    "ground",
-    "garlic",
-    "onion",
-    "salt",
-    "pepper"
+    "turkey broth",
+    "smoked turkey breast",
+    "turkey bacon",
+    "turkey gravy",
+    "roasted turkey breast"
   ],
   "veal": [
-    "olive",
-    "garlic",
-    "butter",
-    "pepper",
-    "salt"
+    "cutlet",
+    "veal chops",
+    "veal cutlets",
+    "veal loin",
+    "veal shoulder"
   ],
   "sugar": [
-    "eggs",
-    "brown sugar",
-    "flour",
-    "butter",
-    "salt"
+    "cachaca",
+    "sugar syrup",
+    "liquid pectin",
+    "pectin",
+    "fruit pectin"
   ],
   "mushroom": [
+    "condensed cream of mushroom soup",
+    "condensed golden mushroom soup",
+    "golden mushroom soup",
     "cream of mushroom soup",
-    "cream",
-    "onion",
-    "mushroom soup",
-    "pepper"
+    "mushroom soup"
   ],
   "eggplant": [
-    "salt",
-    "olive",
-    "garlic",
-    "olive oil",
-    "pepper"
+    "part-skim mozzarella cheese",
+    "buffalo mozzarella",
+    "part-skim mozzarella",
+    "yellow squash",
+    "aubergine"
   ],
   "chocolate": [
-    "eggs",
-    "flour",
-    "chocolate chips",
-    "butter",
-    "sugar"
+    "chocolate milk",
+    "chocolate drink",
+    "dipping chocolate",
+    "chocolate powder",
+    "chocolate liqueur"
   ],
   "tofu": [
-    "salt",
-    "soy sauce",
-    "garlic",
-    "pepper",
-    "sauce"
+    "mentsuyu",
+    "chrysanthemum",
+    "firm tofu",
+    "silken tofu",
+    "soft tofu"
   ],
   "paneer": [
-    "ginger",
-    "garam masala",
-    "masala",
-    "garlic",
-    "salt"
+    "fenugreek leaves",
+    "amchur",
+    "methi",
+    "chaat masala",
+    "brown cardamom"
   ]
 }

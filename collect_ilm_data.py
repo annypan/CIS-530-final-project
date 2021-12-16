@@ -19,9 +19,12 @@ if __name__ == '__main__':
             recipes.append(lines)
         random.shuffle(recipes)
         size = len(recipes)
-        train_recipes = recipes[:math.floor(size * 0.8)]
-        val_recipes = recipes[math.floor(size * 0.8):math.floor(size * 0.9)]
-        test_recipes = recipes[math.floor(size * 0.9):]
+        # train_recipes = recipes[:math.floor(size * 0.8)]
+        train_recipes = recipes[:1000]
+        # val_recipes = recipes[math.floor(size * 0.8):math.floor(size * 0.9)]
+        val_recipes = recipes[1000:1100]
+        # test_recipes = recipes[math.floor(size * 0.9):]
+        test_recipes = recipes[1100:1200]
         with open('data/train.txt', 'w') as f_out:
             for lines in train_recipes:
                 for line in lines:

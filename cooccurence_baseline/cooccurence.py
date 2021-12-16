@@ -51,4 +51,4 @@ if __name__ == '__main__':
                     snd_ing = recipe[snd]
                     cooc_mat[fst_ing][snd_ing] += 1
                     cooc_mat[snd_ing][fst_ing] += 1
-        predict(cooc_mat, ingredients)
+        predict(cooc_mat / np.array(cooc_mat).sum(axis=1), ingredients)
