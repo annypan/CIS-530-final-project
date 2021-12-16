@@ -1,4 +1,9 @@
 ## This is the code for our simple baseline. 
+
+An interactive analysis of the FoodBERT embedding subspace, after reducing the embedding dimensions from 78600 to 3 using t-SNE, has been showcased in the below animation. The analysis shows different clusters like {onion, green onion, white onion}, {oil, cooking oil}, {salt, seasoning, garlic salt}, and {cream, heavy cream, ice cream}, each containing closely placed ingredients. This shows that similar ingredients tend to occupy similar spots in the embedding space even when dimensionality is reduced significantly.
+
+![alt text](https://github.com/annypan/CIS-530-final-project/blob/main/simple_baseline/space.gif)
+
 KNN model: Discussed is a KNN model that finds K nearest neighbors for a particular ingredient in the FoodBERT embedding space, and shortlists them on the basis of a thresholding criteria. The final approach is separated into two parts: The first part calculates text-based embeddings for up to 100 occurrences of every ingredient and optionally concatenates them with image-based embeddings. The second part employs these embeddings together with KNN and a further scoring and filtering step to predict substitutes.
 
 Sample substitutes for four ingredients (salt, sugar, honey, pepperoni) are produced by the provided code.
